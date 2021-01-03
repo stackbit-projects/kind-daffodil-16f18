@@ -5,8 +5,6 @@ template: page
 ---
 
 
-## Tables
-
 <div class="responsive-table">
   <table>
     <thead>
