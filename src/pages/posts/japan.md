@@ -1,6 +1,8 @@
 ---
 title: Gary's Revenge
-excerpt: 'A turn based game made using JavaScript, CSS, HTML, JavaFX, and Java.'
+excerpt: >-
+  A turn based game made using JavaScript, CSS, HTML, JavaFX, and Java. My role:
+  Front-end developer
 date: '2019-03-24'
 thumb_img_path: images/2.jpg
 content_img_path: images/2.jpg
