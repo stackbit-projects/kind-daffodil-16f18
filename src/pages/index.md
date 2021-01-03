@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Neil.'
-    content: An Optimistic Day Dreamer
+    content: Undergraduate Reseach Assistant and Developer
   - section_id: about
     type: section_content
     title: About
