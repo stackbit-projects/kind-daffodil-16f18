@@ -17,10 +17,10 @@ template: page
     <tbody>
       <tr>
         <td>MAHE Toastmasters</td>
-        <td>Student Council</td>
+        <td></td>
       </tr>
       <tr>
-        <td>Row 2, Cell 1</td>
+        <td>Student Council</td>
         <td>Row 2, Cell 2</td>
         <td>Row 2, Cell 3</td>
       </tr>
