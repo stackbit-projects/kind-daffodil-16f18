@@ -9,12 +9,11 @@ template: page
 
 <div class="responsive-table">
   <table>
-    <caption>Simple table with caption and header</caption>
     <thead>
       <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
+        <th>Organization</th>
+        <th>Role</th>
+        <th>Description</th>
       </tr>
     </thead>
     <tbody>
