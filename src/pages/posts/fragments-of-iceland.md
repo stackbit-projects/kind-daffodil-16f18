@@ -3,7 +3,7 @@ title: Gary's Revenge
 excerpt: >-
   A turn based game made with a team of 6 people using JavaScript, HTML, CSS,
   JavaFX, and RegEx.
-date: '2019-03-27'
+date: ''
 thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
 template: post
